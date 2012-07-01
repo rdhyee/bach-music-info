@@ -11,4 +11,4 @@ Some files related to the [Open Goldberg Variations Project](http://www.opengold
 Files related to the aria of the Mutopia project edition of the Goldberg Variations:
 
 * bwv-988-aria.ly  -- downloaded from [mutopia:bwv-988-aria.ly](http://www.mutopiaproject.org/ftp/BachJS/BWV988/bwv-988-aria/bwv-988-aria.ly)
-* `bwv-988-aria.{ps|pdf|midi}` compiled from [bwv-988-aria.ly](./bwv-988-aria.ly)
+* `bwv-988-aria.{ps|pdf|midi}` compiled from [bwv-988-aria.ly](bwv-988-aria.ly)
